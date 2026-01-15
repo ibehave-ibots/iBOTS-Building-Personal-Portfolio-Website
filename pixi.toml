@@ -10,3 +10,4 @@ version = "0.1.0"
 [dependencies]
 hugo = ">=0.154.5,<0.155"
 go = ">=1.25.5,<2"
+bash_kernel = ">=0.7.2,<0.11"

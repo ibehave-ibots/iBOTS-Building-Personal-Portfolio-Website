@@ -24,6 +24,11 @@ hugo version
 go --v
 ```
 
+**STEP 4 (Optional): Register Bash Kernel**
+```
+python -m bash_kernel.install
+```
+
 ## Agenda
 
 Day 1: Creating and Deploying Single-Page Portfolio with Hugo
